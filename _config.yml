@@ -2,15 +2,16 @@
 # avatar
 avatar: /avatar/Misaka.jpg
 # author name
-author: fi3ework
+author: Dajitui
 # signature
-signature: witness me
+signature: Your magic is mine!
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: lzbferrari@live.com
+  github: //github.com/lzbferrari
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  # wechat: /assets/example_qr.png
+  wechat:
   qq: 
   telegram: 
   weibo: 
@@ -30,8 +31,8 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
+  friendA: #//www.baidu.com
+  friendB: #//www.google.com
   friendC: 
 about:
   enable: true
@@ -39,16 +40,16 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: Dajitui's Note
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Dajitui's Note.
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: My list has five names on it.
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -82,9 +83,9 @@ comment:
   # Youyan  site: http://www.uyan.cc/
   youyan_uid: 
   # Valine  site: https://valine.js.org/
-  valine_appId: 
-  valine_appKey: 
-  valine_placeHolder: 
+  valine_appId: OmB4uw5BEUkOj20vLVphivaH-gzGzoHsz
+  valine_appKey: WqnEBGFa39sM5NpQO0T8EaJS
+  valine_placeHolder: (╯°Д°)╯︵┴┴
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
